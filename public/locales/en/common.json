@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Tetiana Bielinska",
+    "description": "Certified cosmetologist. Treatments, products, education."
+  },
+  "pages": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "qualification": "Qualification",
+    "brand": "Brand",
+    "brand_products": "Brand's products"
+  },
+  "services": {
+    "peeling": {
+      "title": "Peeling",
+      "description": "Deep cleansing and skin renewal."
+    }
+  }
+}

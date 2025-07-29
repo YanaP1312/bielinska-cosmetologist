@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Tetiana Bielinska",
+    "description": "Cosmetolog certificat. Proceduri, produse, instruire."
+  },
+  "pages": {
+    "home": "Acasă",
+    "services": "Proceduri",
+    "products": "Produse",
+    "qualification": "Calificare",
+    "brand": "Brand",
+    "brand_products": "Produsele brandului"
+  },
+  "services": {
+    "peeling": {
+      "title": "Peeling",
+      "description": "Curățare profundă și reînnoire a pielii."
+    }
+  }
+}
